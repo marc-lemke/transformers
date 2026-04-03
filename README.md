@@ -15,7 +15,7 @@ limitations under the License.
 -->
 
 <p align="center">
-    <mark>This is a deviation of the <code>transformers 4.17.0</code> package for the needs of <a href="https://github.com/NEISSproject/tei_entity_enricher" target="_blank">NTEE 1.1.2</a>.</mark>
+    <mark>This is a derivation of the <code>transformers 4.17.0</code> package adapted to the requirements of <a href="https://github.com/NEISSproject/tei_entity_enricher" target="_blank">NTEE 1.1.2</a>.</mark>
 </p>
 
 <p align="center">
